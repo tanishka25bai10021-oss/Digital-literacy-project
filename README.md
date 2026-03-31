@@ -26,6 +26,7 @@ The project was designed around the role of a **Student Digital Ambassador**, wh
 - To develop awareness about cybercrime and online safety
 
 📝 Task Summary     
+
 Task 1 – Digital Literacy Awareness Infographic
 
 Created a one-page infographic using Canva on the topic “Digital Literacy for College Students”.    
