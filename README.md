@@ -27,8 +27,8 @@ The project was designed around the role of a **Student Digital Ambassador**, wh
 
 📝 Task Summary     
 
-📁 Folder: task-1-presentation/
-Task 1 – Digital Literacy Awareness Infographic
+📁 Folder: task-1-presentation/     
+Task 1 – Digital Literacy Awareness Infographic     
 
 Created a one-page infographic using Canva on the topic “Digital Literacy for College Students”.    
 The infographic covers:   
