@@ -25,11 +25,11 @@ The project was designed around the role of a **Student Digital Ambassador**, wh
 - To learn proper digital communication and email etiquette
 - To develop awareness about cybercrime and online safety
 
-📝 Task Summary
+📝 Task Summary     
 Task 1 – Digital Literacy Awareness Infographic
 
-Created a one-page infographic using Canva on the topic “Digital Literacy for College Students”.
-The infographic covers:
+Created a one-page infographic using Canva on the topic “Digital Literacy for College Students”.    
+The infographic covers:   
 
 Meaning of digital literacy          
 Useful digital tools for students     
