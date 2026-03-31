@@ -99,7 +99,7 @@ This repository contains all the required files, screenshots, written content, a
 
 ✨ Author
 
-Tanishka Jain
-Registration Number: Your Registration Number
-Branch: B.Tech AI & ML
-VIT Bhopal University
+Tanishka Jain     
+Registration Number: Your Registration Number     
+Branch: B.Tech AI & ML        
+VIT Bhopal University    
