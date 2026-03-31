@@ -85,13 +85,13 @@ https://docs.google.com/forms/d/e/1FAIpQLSctzNoHynmKvURukxRm7wsDuFXf8xXCP3NDNzUJ
 📁 Folder: task-5-cybercrime/
 
 🛠️ Tools and Platforms Used
-Canva
-GitHub
-LinkedIn
-Kaggle
-HackerRank / CodeChef
-Google Forms
-Google Sheets
+Canva     
+GitHub     
+LinkedIn     
+Kaggle     
+HackerRank   
+Google Forms    
+Google Sheets    
 
 ✅ Final Submission
 
