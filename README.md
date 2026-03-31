@@ -31,11 +31,11 @@ Task 1 – Digital Literacy Awareness Infographic
 Created a one-page infographic using Canva on the topic “Digital Literacy for College Students”.
 The infographic covers:
 
-Meaning of digital literacy
-Useful digital tools for students
-Safe internet practices
-Professional online presence
-Email etiquette
+Meaning of digital literacy          
+Useful digital tools for students     
+Safe internet practices       
+Professional online presence    
+Email etiquette      
 
 📁 Folder: task-1-presentation/
 
@@ -43,11 +43,11 @@ Task 2 – Build Your Student Digital Portfolio
 
 Created/updated professional profiles on:
 
-GitHub
-LinkedIn
-Kaggle
+GitHub     
+LinkedIn     
+Kaggle    
 
-Also created a GitHub profile README to begin building a strong and professional student portfolio.
+Also created a GitHub profile README to begin building a strong and professional student portfolio.   
 
 📁 Folder: task-2-portfolio/
 
@@ -55,9 +55,9 @@ Task 3 – Explore Coding & Collaboration Platforms
 
 Completed:
 
-One beginner-level coding challenge on HackerRank 
-A Google Form titled “Digital Literacy Awareness Quiz”
-Linked Google Sheet for collecting responses
+One beginner-level coding challenge on HackerRank       
+A Google Form titled “Digital Literacy Awareness Quiz”     
+Linked Google Sheet for collecting responses     
 
 📁 Folder: task-3-platforms/
 
@@ -65,9 +65,9 @@ Task 4 – Draft a Professional Email & Etiquette Guide
 
 Prepared:
 
-One formal email requesting assignment extension
-One formal email expressing internship interest
-A Social Media Do’s and Don’ts Checklist
+One formal email requesting assignment extension      
+One formal email expressing internship interest      
+A Social Media Do’s and Don’ts Checklist      
 
 📁 Folder: task-4-email-etiquette/
 
@@ -75,8 +75,8 @@ Task 5 – Cybercrime Awareness Case Study & Prevention Guide
 
 Created:
 
-A cybercrime case study on Phishing
-A Stay Safe Online prevention checklist
+A cybercrime case study on Phishing      
+A Stay Safe Online prevention checklist     
 
 # Google Form Link:   
 https://docs.google.com/forms/d/e/1FAIpQLSctzNoHynmKvURukxRm7wsDuFXf8xXCP3NDNzUJrXoHrJTc1A/viewform?usp=publish-editor    
